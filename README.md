@@ -1,2 +1,0 @@
-# sxd
-Solutions Experience Design

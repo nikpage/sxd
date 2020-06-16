@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <title>Test_Solutions Experience Design</title>
+    <link href="https://test-sol-exp.netlify.app/feed.xml" rel="self" />
+    <link href="https://test-sol-exp.netlify.app" />
+    <updated>2020-06-16T10:51:02+02:00</updated>
+    <author>
+        <name>NP</name>
+    </author>
+    <id>https://test-sol-exp.netlify.app</id>
+
+    <entry>
+        <title>The Way</title>
+        <author>
+            <name>NP</name>
+        </author>
+        <link href="https://test-sol-exp.netlify.app/the-way-2.html"/>
+        <id>https://test-sol-exp.netlify.app/the-way-2.html</id>
+
+        <updated>2020-06-05T12:21:43+02:00</updated>
+            <summary>
+                <![CDATA[
+                    Design always means seeking an original solution. That means venturing into the&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p>Design always means seeking an original solution. That means venturing into the unknown, it means risk. That's the only way to innovate, to invent a new solution.</p>
+<p>We are guided by core principles we've learned in our practices. Simplicity is chief among them and often the hardest to achieve.</p>
+<p>Since every design effort is unique we don't have checklists or repeatable steps but rather a collection of ingredients some of which may be appropriate for a given project and others for another.  That collection is ever evolving along with our external business environment but includes:</p>
+<p> </p>
+<table class="align-left align-center" style="border-collapse: collapse; width: 99.4224%; background-color: #ecf0f1; border-style: none;" border="0" cellspacing="3" cellpadding="3">
+<tbody>
+<tr>
+<td class="align-center" style="width: 33.3333%;">
+<h3>Goal or Purpose</h3>
+</td>
+<td class="align-center" style="width: 33.3333%;">
+<h3>Target Audience</h3>
+</td>
+<td class="align-center" style="width: 73.6075%;">
+<h3>Target's Reason to Care</h3>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">A goal is what separates design from art. Understanding yours is key to successful design. Everything in the design must support this goal. Everything.</td>
+<td style="width: 33.3333%;">Anything "designed for everyone" is probably going to fail. Defining a target group lets us understand their needs that we can design specifically to meet.</td>
+<td style="width: 73.6075%;">The harsh reality of life is that no one gives a shit about your goals. We need to design the reason for the target group to be interested, to care at all.</td>
+</tr>
+<tr>
+<td class="align-center" style="width: 33.3333%;">
+<h3>Clarity</h3>
+</td>
+<td class="align-center" style="width: 33.3333%;">
+<h3>Legend</h3>
+</td>
+<td class="align-center" style="width: 73.6075%;">
+<h3>Engagement</h3>
+</td>
+</tr>
+<tr>
+<td style="width: 33.3333%;">Project teams, especially in startups are often way too smart. The result is an overly complex idea. Distilling it till we find the essential elements can be important.</td>
+<td style="width: 33.3333%;">More than a story, a legend introduces values, archetypes, things to believe in and want to be part of. </td>
+<td style="width: 73.6075%;">Elements of the design should give satisfaction and that leads to a desire to take more action. This builds engagement not only within the design but outside it such as telling people about it.</td>
+</tr>
+</tbody>
+</table>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
+</feed>
